@@ -1,0 +1,18 @@
+{
+  "light": {
+    "emoji": {
+      "aria": "Moon",
+      "icon": "🌚"
+    },
+    "title": "Enable dark mode in your system preferences",
+    "body": "And see the magic happen"
+  },
+  "dark": {
+    "emoji": {
+      "aria": "Sun",
+      "icon": "🌞"
+    },
+    "title": "Enable light mode in your system preferences",
+    "body": "And see the magic happen"
+  }
+}
